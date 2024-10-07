@@ -2,7 +2,7 @@
 
 <p align="center">
 Soluções para os desafios técnicos propostos durante o processo seletivo 
-</p><br>
+</p>
 
 ## Descrição
 <p align="center"> Este repositório contém as soluções para cinco exercícios propostos. As soluções foram desenvolvidas em JavaScript, utilizando Node.js para execução dos scripts e obtenção dos resultados diretamente no terminal. </p>
